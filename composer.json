@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"php": ">=5.4.0"
+		"php": ">=5.4.0",
 		"doctrine/cache": "1.4.*",
         "elasticsearch/elasticsearch": "~2.0",
         "monolog/monolog": "~1.0",
