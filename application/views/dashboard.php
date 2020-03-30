@@ -72,8 +72,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="card bg-primary text-white size-100 mb-3">
                                     <div class="card-body"><b>POSITIF<br><?php echo $value->positif ?><br>Orang</b></div>
                                     <div class="card-footer d-flex align-items-center justify-content-between">
-                                        <a class="small text-white stretched-link" href="#">View Details</a>
-                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                        <!-- <a class="small text-white stretched-link" href="#">Lihat Detail</a> -->
+                                        <!-- <div class="small text-white"><i class="fas fa-angle-right"></i></div> -->
                                     </div>
                                 </div>
                             </div>
@@ -81,8 +81,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="card bg-success text-white mb-3">
                                     <div class="card-body"><b>SEMBUH<br><?php echo $value->sembuh ?><br>Orang</b></div>
                                     <div class="card-footer d-flex align-items-center justify-content-between">
-                                        <a class="small text-white stretched-link" href="#">View Details</a>
-                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                        <!-- <a class="small text-white stretched-link" href="#">Lihat Details</a> -->
+                                        <!-- <div class="small text-white"><i class="fas fa-angle-right"></i></div> -->
                                     </div>
                                 </div>
                             </div>
@@ -90,8 +90,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="card bg-danger text-white mb-3">
                                     <div class="card-body"><b>MENINGGAL<br><?php echo $value->meninggal ?><br>Orang</b></div>
                                     <div class="card-footer d-flex align-items-center justify-content-between">
-                                        <a class="small text-white stretched-link" href="#">View Details</a>
-                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                        <!-- <a class="small text-white stretched-link" href="#">View Details</a> -->
+                                        <!-- <div class="small text-white"><i class="fas fa-angle-right"></i></div> -->
                                     </div>
                                 </div>
                             </div>

@@ -79,7 +79,7 @@ $db['default'] = array(
 	'username' => 'mxotanotjsiajg',
 	'password' => 'be3c01fa7f8b22cf9b99d70684cfeda749fbe77c60ba13c62c533f780e676719',
 	'database' => 'd8daqbq3gdosfn',//covid-19
-	'dbdriver' => 'postgre',
+	'dbdriver' => 'postgre',//mysqli
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
@@ -94,3 +94,25 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+
+// $db['default'] = array(
+// 	'dsn'	=> '',
+// 	'hostname' => 'localhost',//localhost
+// 	'username' => 'root',
+// 	'password' => '',
+// 	'database' => 'covid-19',//covid-19
+// 	'dbdriver' => 'mysqli',//mysqli
+// 	'dbprefix' => '',
+// 	'pconnect' => FALSE,
+// 	'db_debug' => (ENVIRONMENT !== 'production'),
+// 	'cache_on' => FALSE,
+// 	'cachedir' => '',
+// 	'char_set' => 'utf8',
+// 	'dbcollat' => 'utf8_general_ci',
+// 	'swap_pre' => '',
+// 	'encrypt' => FALSE,
+// 	'compress' => FALSE,
+// 	'stricton' => FALSE,
+// 	'failover' => array(),
+// 	'save_queries' => TRUE
+// );
