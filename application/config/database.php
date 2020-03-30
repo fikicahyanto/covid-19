@@ -79,7 +79,7 @@ $db['default'] = array(
 	'username' => 'mxotanotjsiajg',
 	'password' => 'be3c01fa7f8b22cf9b99d70684cfeda749fbe77c60ba13c62c533f780e676719',
 	'database' => 'd8daqbq3gdosfn',//covid-19
-	'dbdriver' => 'pgsql',
+	'dbdriver' => 'postgre',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
