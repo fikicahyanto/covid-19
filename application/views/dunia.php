@@ -62,14 +62,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div id="layoutSidenav_content">
                 <main>
                         <div class="card mb-4">
-                            <div class="card-header"><i class="fas fa-table mr-1"></i>DATA COVID - 19 PROVINSI</div>
+                            <div class="card-header"><i class="fas fa-table mr-1"></i>DATA COVID - 19 Dunia</div>
                             <div class="card-body">
                                 <div class="table-responsive">
                                     <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                                         <thead>
                                             <tr>
                                                 <th>No</th>
-                                                <th>Provinsi</th>
+                                                <th>Negara</th>
                                                 <th>Positif</th>
                                                 <th>Sembuh</th>
                                                 <th>meninggal</th>
@@ -79,7 +79,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                         <tfoot>
                                             <tr>
                                                 <th>No</th>
-                                                <th>Provinsi</th>
+                                                <th>Negara</th>
                                                 <th>Positif</th>
                                                 <th>Sembuh</th>
                                                 <th>Meninggal</th>
